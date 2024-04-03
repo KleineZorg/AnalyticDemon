@@ -1,2 +1,2 @@
 # AnalyticDemon
-Graph Reader
+Demon Chart Reader
